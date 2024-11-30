@@ -1,6 +1,6 @@
-# ChatGPT中文版 | 无限使用GPT-4o和o1-preview，无需翻墙【11月更新】
+# ChatGPT中文版 | 无限使用GPT-4o和o1-preview，无需翻墙【12月更新】
 
-> 更新时间：2024/11/28 <br />
+> 更新时间：2024/12/01 <br />
 > 作者：chatgpt-chinese  
 
 **无限制使用，快速体验 ChatGPT 中文服务，支持 GPT-4、GPT-o1-preview、AI PPT等各功能！** <br />
